@@ -1,0 +1,21 @@
+body {
+    background: #66ffff no-repeat center;
+}
+
+@media all and (min-width: 675px) {
+    body {
+        background: #99ffff no-repeat center;
+    }
+}
+
+@media all and (min-width: 999px) {
+    body {
+        background: #ccffff no-repeat center;
+    }
+}
+
+@media all and (min-width: 1280px) {
+    body {
+        background: #99ccff no-repeat center;
+    }
+}
