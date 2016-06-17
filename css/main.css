@@ -1,0 +1,21 @@
+body {
+    background: #99ccff no-repeat center;
+}
+
+@media all and (max-width: 1080px) {
+    body {
+        background: #ccffff no-repeat center;
+    }
+}
+
+@media all and (max-width: 550px) {
+    body {
+        background: #99ffff no-repeat center;
+    }
+}
+
+@media all and (max-width: 400px) {
+    body {
+        background: #66ffff no-repeat center;
+    }
+}
