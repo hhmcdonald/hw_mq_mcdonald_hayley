@@ -1,0 +1,9 @@
+body {
+    background: #ccffff no-repeat center;
+}
+
+@media all and (min-width: 716px) and (max-width: 959px) {
+    body {
+        background: #66ffff no-repeat center;
+    }
+}
